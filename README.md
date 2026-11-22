@@ -11,3 +11,6 @@ Upload this whole folder to a free host (Netlify Drop, Cloudflare Pages, GitHub 
 
 Privacy page for Play Console: https://YOURSITE/#privacy
 Full step-by-step guide: see the Play Store Launch & Selling Guide document.
+
+
+https://sajidrazapec.github.io/Restorent-wallah-/
